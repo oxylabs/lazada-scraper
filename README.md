@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Lazada Scraper, you can seamlessly procure public data from any Lazada webpage. Gather important product information, such as brands, item availability, or shipping details, for understanding the market dynamics and outperforming your rivals. Should you have any queries, feel free to reach out to our support team through live chat or email us at hello@oxylabs.io.
+With our Lazada Scraper, you can seamlessly procure public data from any Lazada webpage. Gather important product information, such as brands, item availability, or shipping details, for understanding the market dynamics and outperforming your rivals. Should you have any queries, feel free to reach out to our support team through live chat or email us at support@oxylabs.io.
